@@ -1,4 +1,8 @@
 # sistemas-distribuidos-2020-3
+
+![Blocks](https://i.ebayimg.com/images/g/4OwAAOSwYxBeiH-V/s-l640.jpg)
+
+
 ## Definição
 > Coleção de computadores independentes que se apresenta ao usuário como um sistema único e coerente [Tanenbaum and van Steen, 2007].
 
